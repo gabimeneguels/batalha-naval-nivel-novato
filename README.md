@@ -1,6 +1,6 @@
-# 🚢 Batalha Naval - Nível Novato
+# Batalha Naval - Nível Novato
 
-## 📌 Descrição
+##  Descrição
 
 Este projeto foi desenvolvido como parte do desafio "Nível Novato" da disciplina de programação em C.
 
@@ -11,7 +11,7 @@ O objetivo é representar um tabuleiro 10x10 do jogo Batalha Naval utilizando ma
 
 ---
 
-## 🧠 Conceitos utilizados
+## Conceitos utilizados
 
 - Matrizes (arrays bidimensionais)
 - Vetores (arrays unidimensionais)
@@ -22,7 +22,7 @@ O objetivo é representar um tabuleiro 10x10 do jogo Batalha Naval utilizando ma
 
 ---
 
-## ⚙️ Funcionamento do Programa
+## Funcionamento do Programa
 
 1. O tabuleiro 10x10 é inicializado com o valor 0 (representando água).
 2. Dois navios de tamanho 3 são criados.
@@ -35,7 +35,7 @@ O objetivo é representar um tabuleiro 10x10 do jogo Batalha Naval utilizando ma
 
 ---
 
-## 🖥️ Representação no Console
+## Representação no Console
 
 - 0 → Água
 - 3 → Parte do navio
@@ -51,7 +51,7 @@ Exemplo de saída:
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 batalha_naval.c
@@ -60,7 +60,7 @@ README.md
 
 ---
 
-## 🎯 Objetivo do Desafio
+## Objetivo do Desafio
 
 Demonstrar domínio dos conceitos básicos de vetores e matrizes em C, além de organização e documentação adequada do código.
 
